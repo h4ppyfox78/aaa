@@ -3,7 +3,7 @@ setlocal
 
 :: Set variables
 set "TUNNEL_NAME=Lizzs vpn"
-set "CONFIG_URL=http://sponsored-cash.gl.at.ply.gg:65433/api/wireguard/client/64489ae1-9d41-4f26-bbe5-a154fae36989/configuration"
+set "CONFIG_URL=https://raw.githubusercontent.com/h4ppyfox78/aaa/refs/heads/main/Lizzs-vpn(4).conf"
 set "TEMP_CONF=%TEMP%\lizzs_vpn.conf"
 
 echo Downloading new configuration...
